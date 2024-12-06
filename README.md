@@ -1,5 +1,5 @@
-# FREE CASINO SITE WITH OUR INTEGRATED SLOT API
 
+https://github.com/Rizki999999/CASINO.site
 ## Overview
 Welcome to the ultimate solution for launching your online casino! Our free, premade casino site template is specifically designed to integrate seamlessly with our slot API, providing you with a robust and feature-rich platform to get started quickly. Whether you're a developer looking to build a casino from scratch or an entrepreneur wanting to expand into the online gaming industry, our template is the perfect choice.
 
@@ -11,7 +11,7 @@ Welcome to the ultimate solution for launching your online casino! Our free, pre
 - **Responsive Design**: Fully responsive layout ensures your site looks great on all devices, enhancing user experience.
 
 ## Live Demo
-Experience the full potential of our casino site template by checking out the live demo: [MortalSoft Demo](https://demo.mortalsoft.online). See how seamlessly our template integrates with our slot API and explore the user-friendly interface.
+Experience the full potential of our casino site template by checking out the live demo: [MortalSoft Demo](https://demo.mortalsoft.onlineee how seamlessly our template integrates with our slot API and explore the user-friendly interface.
 
 ## Join Our Community
 Stay connected with our growing community of developers and casino operators. Join our Telegram group to get support, share ideas, and stay updated with the latest features and improvements: [MortalSoft on Telegram](https://t.me/mortalsoft)
